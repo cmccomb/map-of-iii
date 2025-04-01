@@ -3,14 +3,14 @@
         "title": "A Plasma-Based, Amiodarone-Impregnated Material Decreases Susceptibility to Atrial Fibrillation in a Post–Cardiac Surgery Model",
         "pub_year": "2016",
         "citation": "Innovations 11 (1), 59-63, 2016",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "QXSGNWkAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "An off-the-shelf plasma-based material to prevent pacemaker pocket infection",
         "pub_year": "2015",
         "citation": "Biomaterials 60, 1-8, 2015",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "QXSGNWkAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -24,7 +24,7 @@
         "title": "Biocompatible polymers and Methods of use",
         "pub_year": "2010",
         "citation": "US Patent App. 11/495,115, 2010",
-        "num_citations": 84,
+        "num_citations": 87,
         "author_pub_id": "QXSGNWkAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -59,7 +59,7 @@
         "title": "Immobilization of aprotinin to fibrinogen as a novel method for controlling degradation of fibrin gels",
         "pub_year": "2007",
         "citation": "Bioconjugate chemistry 18 (3), 695-701, 2007",
-        "num_citations": 53,
+        "num_citations": 52,
         "author_pub_id": "QXSGNWkAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -73,29 +73,36 @@
         "title": "Methods and apparatus for manufacturing plasma-based plastics and bioplastics therefro",
         "pub_year": "2013",
         "citation": "US Patent 8,529,961, 2013",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "QXSGNWkAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Methods and apparatus for manufacturing plasma-based plastics and bioplastics therefro",
         "pub_year": "2013",
         "citation": "US Patent 8,529,956, 2013",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "QXSGNWkAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Methods and apparatus for manufacturing plasma-based plastics and bioplastics therefrom",
         "pub_year": "2013",
         "citation": "US Patent 8,529,959, 2013",
-        "num_citations": 39,
+        "num_citations": 41,
         "author_pub_id": "QXSGNWkAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Methods and apparatus for manufacturing plasma-based plastics and bioplastics therefrom",
         "pub_year": "2013",
         "citation": "US Patent 8,529,958, 2013",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "QXSGNWkAAAAJ:LkGwnXOMwfcC"
+    },
+    {
+        "title": "Methods and apparatus for manufacturing plasma-based plastics and bioplastics therefrom",
+        "pub_year": "2016",
+        "citation": "US Patent 9,364,503, 2016",
+        "num_citations": 33,
+        "author_pub_id": "QXSGNWkAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Methods and apparatus for manufacturing plasma-based plastics and bioplastics therefrom",
@@ -106,16 +113,9 @@
     },
     {
         "title": "Methods and apparatus for manufacturing plasma-based plastics and bioplastics therefrom",
-        "pub_year": "2016",
-        "citation": "US Patent 9,364,503, 2016",
-        "num_citations": 32,
-        "author_pub_id": "QXSGNWkAAAAJ:hqOjcs7Dif8C"
-    },
-    {
-        "title": "Methods and apparatus for manufacturing plasma-based plastics and bioplastics therefrom",
         "pub_year": "2013",
         "citation": "US Patent 8,911,789, 2013",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "QXSGNWkAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -143,14 +143,14 @@
         "title": "Overexpression of an archaeal protein in yeast: secretion bottleneck at the ER",
         "pub_year": "2002",
         "citation": "Biotechnology and bioengineering 79 (7), 713-723, 2002",
-        "num_citations": 48,
+        "num_citations": 47,
         "author_pub_id": "QXSGNWkAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Plasma‐based biomaterials for the treatment of cutaneous radiation injury",
         "pub_year": "2019",
         "citation": "Wound Repair and Regeneration 27 (2), 139-149, 2019",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "QXSGNWkAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -164,7 +164,7 @@
         "title": "Protein disulfide isomerase, but not binding protein, overexpression enhances secretion of a non‐disulfide‐bonded protein in yeast",
         "pub_year": "2004",
         "citation": "Biotechnology and bioengineering 85 (3), 340-350, 2004",
-        "num_citations": 94,
+        "num_citations": 92,
         "author_pub_id": "QXSGNWkAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -185,7 +185,7 @@
         "title": "Skin-Targeted Delivery of Extracellular Vesicle-Encapsulated Curcumin Using Dissolvable Microneedle Arrays",
         "pub_year": "2022",
         "citation": "Acta Biomaterialia, 2022",
-        "num_citations": 67,
+        "num_citations": 69,
         "author_pub_id": "QXSGNWkAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -199,7 +199,7 @@
         "title": "The use of quantum dots for analysis of chick CAM vasculature",
         "pub_year": "2007",
         "citation": "Microvascular research 73 (2), 75-83, 2007",
-        "num_citations": 89,
+        "num_citations": 92,
         "author_pub_id": "QXSGNWkAAAAJ:zYLM7Y9cAGgC"
     },
     {
